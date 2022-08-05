@@ -1,0 +1,16 @@
+{
+  "Pemenang": [
+    {
+      "id": 12345678,
+      "divisi": "Drizzle",
+      "description": "light intensity drizzle",
+      "wilayah": "09d"
+    },
+    {
+      "id": 87654321,
+      "divisi": "Homealone",
+      "description": "light intensity drizzle",
+      "wilayah": "71a"
+    }
+  ]
+}
